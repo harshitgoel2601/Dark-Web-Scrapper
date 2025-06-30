@@ -89,7 +89,7 @@ To get a local copy up and running, follow these simple steps.
    4. Add .env file to project directory
    5. Run
       ```sh 
-         python3 mainv2.py
+         python3 main.py
       ```
 
    __Windows__
@@ -109,7 +109,7 @@ To get a local copy up and running, follow these simple steps.
    5. Add .env file to project directory
    6. Run
       ```sh 
-         python mainv2.py
+         python main.py
       ```
 
    __Mac__
@@ -131,5 +131,5 @@ To get a local copy up and running, follow these simple steps.
    4. Add .env file to project directory
    5. Run
       ```sh 
-         python3 mainv2.py
+         python3 main.py
       ```
